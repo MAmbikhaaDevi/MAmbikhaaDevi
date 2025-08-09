@@ -1,6 +1,6 @@
 <!-- Centered Animated Banner -->
 <p align="center">
-  <img src="" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);" />
+  <img src="github-header-banner.png" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);" />
 </p>
 
 <!-- Gradient Heading with Waving Hand -->
