@@ -134,8 +134,10 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/MAmbikhaaDevi/MAmbikhaaDevi/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.gif" alt="Snake animation dark mode" />
 </p>
+
+
 
 *“Turning ideas into reality, one line of code at a time.”*
 
