@@ -4,7 +4,7 @@
 <!-- Gradient Heading with Waving Hand -->
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #FF5733, #FFC300, #33FF57, #33C1FF, #9B33FF); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" height="45px">, I'm Ambikhaa Devi
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" height="45px"><br> I'm Ambikhaa Devi
   </span>
 </h1>
 <h3 align="center">💻 Software Engineer | 🚀 AI • Web Development • Data Science</h3>
