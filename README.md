@@ -1,7 +1,5 @@
 <!-- Centered Animated Banner -->
-<p align="center">
-  <img src="assets/banner.gif" alt="Ambikhaa Devi Banner" width="100%" />
-</p>
+
 
 <!-- Gradient Heading with Waving Hand -->
 <h1 align="center">
