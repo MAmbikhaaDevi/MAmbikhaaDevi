@@ -35,7 +35,7 @@
 ---
 
 ## 🏷 About Me
-🚀 Passionate **Software Engineer** with a Master’s in Computer Science (2022–2024) and strong expertise in **AI, Web Development, and Data Science**.  
+🚀 Passionate **Software Engineer** with a Master’s in Computer Science and strong expertise in **AI, Web Development, and Data Science**.  
 💡 Experienced in building **production-ready applications**, optimizing **front-end performance**, and creating **end-to-end ML pipelines**.  
 📌 Currently **open to work** and collaborations on innovative projects that create real-world impact.
 
@@ -43,7 +43,6 @@
 
 ## 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_for_All-NVIDIA-blue?logo=nvidia&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative_AI-Google_Cloud-blue?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_for_Developers-Student-4285F4?logo=google&logoColor=white&style=for-the-badge" />
 </p>
@@ -158,7 +157,7 @@
 ---
 
 ## 🎓 Certifications
-1. **AI for All** — NVIDIA  
+1. **AI for All from Basics to Gen AI Practice** — NVIDIA  
 2. **Intro to Generative AI** — Google Cloud Skills Boost  
 3. **Data Science** — JSDC  
 4. **LLM — Powered by Google Cloud** — Simplilearn  
